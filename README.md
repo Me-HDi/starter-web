@@ -10,5 +10,6 @@ Sample website with plenty of files for demos
 2022 Mehdi
 
 ## how to contribute
-NA - added from master !!
+
+
 
