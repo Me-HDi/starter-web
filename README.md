@@ -8,7 +8,7 @@ Adding a line for rebasing example, more lines after rebasing!
 Sample website with plenty of files for demos
 
 ## Copyright
-2022 Mehdi
+2022 Mehdi. All rights reserved
 
 ## how to contribute
 
